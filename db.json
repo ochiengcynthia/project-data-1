@@ -1,0 +1,238 @@
+{
+    "services": [
+      {
+        "image": "https://media.istockphoto.com/id/1350239751/photo/car-diagnostic-service-and-electronics-repair.jpg?s=612x612&w=0&k=20&c=6xSgzMp9KJJ8lN0hC1UcuqXuuZMLNFCgCkcju-Q0BTU=",
+        "category": "major service",
+        "price": 4000,
+        "id": 1,
+        "name": "complete check-up"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/1325588832/photo/pouring-motor-oil-for-motor-vehicles-from-a-gray-bottle-into-the-engine.jpg?s=612x612&w=0&k=20&c=8El-cOoOpGSDz-dOjozJn5ijlFOuE1WGQA1hsZvyyMk=",
+        "category": "minor service",
+        "price": 4000,
+        "id": 2,
+        "name": "oil change"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/185262582/photo/oil-change.jpg?s=612x612&w=0&k=20&c=7IqHcWfXFlmVwi8RzEl_Ubz1sJO_sybAiTaxjSKZTf4=",
+        "category": "minor service",
+        "price": 4000,
+        "id": 3,
+        "name": "oil filter"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/1253741648/photo/automobile-air-conditioner-freon-can-and-test-gauges-under-hood-of-car-concept-of-vehicle-air.jpg?s=612x612&w=0&k=20&c=S5Z47RMVTEGt-WIeAJHRTwJWLveSyYpQUH8BfTv9OZo=",
+        "category": "minor service",
+        "price": 4000,
+        "id": 4,
+        "name": "air elements"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/514841780/photo/electric-vehicle-charging-station-for-home.jpg?s=612x612&w=0&k=20&c=p5jA3y-AVBCBDHhDwVVRyT_U5TSfArBS2toDxAR0AqM=",
+        "category": "major service",
+        "price": 4000,
+        "id": 5,
+        "name": "plugs"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/628819224/photo/mechanical-technician-worker-hands-measuring-detail-tool-after-processing-at.jpg?s=612x612&w=0&k=20&c=UlZV1xLpPYjDq3M6z872pyLRX3tLDNMN9AWlwEnBbiw=",
+        "category": "major service",
+        "price": 4000,
+        "id": 6,
+        "name": "break pads and lining"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/1294078148/photo/car-mechanic-drain-automatic-transmission-fluid.jpg?s=612x612&w=0&k=20&c=D25k4wvf0K19a7Os1eeOQtf9gLGaCY0_R5WdwgkzclI=",
+        "category": "major service",
+        "price": 4000,
+        "id": 7,
+        "name": "gear box automatic"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/510488501/photo/hand-pouring-transmission-fluid.jpg?s=612x612&w=0&k=20&c=avKhDlRMZx3wyU_lqvS7CbDUhabrdoCssedtQ6RWBRs=",
+        "category": "major service",
+        "price": 4000,
+        "id": 8,
+        "name": "transmission fluid (ATF)"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/1315857239/photo/modern-suv-car-suspension-maintenance.jpg?s=612x612&w=0&k=20&c=U7p7aXj5QhoqIGiA2Dg4_SJmRwEf72JUtnnUJrtBOMI=",
+        "category": "major service",
+        "price": 4000,
+        "id": 9,
+        "name": "suspension system"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/1386446212/photo/car-mechanic-removing-old-airbag-stock-photo.jpg?s=612x612&w=0&k=20&c=c_YxtcwNAk63gwxEHVbcfoiM44ax3OJG2PG8gLjxFrw=",
+        "category": "major service",
+        "price": 4000,
+        "id": 10,
+        "name": "staring system"
+      },
+      {
+        "image": "https://media.istockphoto.com/id/1144547924/photo/auto-service-electrician-wiring-car-maintenance.jpg?s=612x612&w=0&k=20&c=Q59ffNm8R2fR5LnsZQzjy-evqGVJgvwNkKSP1GsvT4M=",
+        "price": "4000",
+        "name": "wiring system",
+        "category": "major service",
+        "id": 11
+      },
+      {
+        "image": "https://www.minit-tune.com/wp-content/uploads/2022/06/What-are-spark-plugs.jpg",
+        "category": "major service",
+        "price": "3000",
+        "name": "spark plugs",
+        "id": 11
+      },
+      {
+        "image": "https://media.istockphoto.com/id/1386446212/photo/car-mechanic-removing-old-airbag-stock-photo.jpg?s=612x612&w=0&k=20&c=c_YxtcwNAk63gwxEHVbcfoiM44ax3OJG2PG8gLjxFrw=",
+        "price": "4000",
+        "name": "oil filter change",
+        "category": "minor service",
+        "id": 12
+      }
+    ],
+    "spareparts": [
+      {
+        "image": "",
+        "price": "",
+        "name": "",
+        "available": ""
+      },
+  
+       {
+        "name": "engine oil",
+        "image": "https://media.istockphoto.com/id/1046529090/photo/motor-oil-canister-on-white-isolated-background.jpg?s=612x612&w=0&k=20&c=h6IH7eEH730LsdArhGee2sFQQCierI9SMdmUdk16TPs=",
+        "available": 46,
+        "price": 7000,
+        "id": 1
+       },
+      {
+        "name": "oil filter",
+        "image": "https://media.istockphoto.com/id/1033298590/photo/car-oil-filter-isolated-on-white-background-automobile-spare-part.jpg?s=612x612&w=0&k=20&c=OHzfK0cuoP3VrJ-rvN2AbFZABj2or9NKa19vLXrNQhI=",
+        "available": false,
+        "price": 7000,
+        "id": 2
+      },
+      {
+        "name": "plugs",
+        "image": "https://media.istockphoto.com/id/157173706/photo/electric-car-charging-plug-on-a-white-background.jpg?s=612x612&w=0&k=20&c=62Tfxwjq-ULOAQcQo9qvINGqDFurykfoatdRXinZ1DA=",
+        "available": 48,
+        "price": 7000,
+        "id": 4
+      },
+      {
+        "name": "gear box",
+        "image": "https://media.istockphoto.com/id/696749978/photo/cross-section-of-a-car-gearbox-mechanic-work-in-the-garage.jpg?s=612x612&w=0&k=20&c=EwZlleVb_kD1F-La1iA8AOLxkLxmmIZ9R3RmL6mNW7A=",
+        "available": 49,
+        "price": 7000,
+        "id": 5
+      },
+      {
+        "name": "engine coolant",
+        "image": "https://media.istockphoto.com/id/1384336782/photo/radiator-rubber-and-silicone-pipes-and-different-goods-3d-illustration.jpg?s=612x612&w=0&k=20&c=Gey68tLSU2OSd5LpHRcBEqDHeuWv68Fuabq-n2YfcfA=",
+        "available": 50,
+        "price": 7000,
+        "id": 6
+      },
+      {
+        "name": "brake fluids",
+        "image": "https://media.istockphoto.com/id/1197345163/photo/brake-disc-car-red-caliper-and-brake-fluid-can-spare-parts-car-repair.jpg?s=612x612&w=0&k=20&c=hEqc40C11Z7i3qxHLQf2pE9tB4UmUqbigrQoIiY6KFI=",
+        "available": 50,
+        "price": 7000,
+        "id": 8
+      },
+      {
+        "name": "suspension bushes",
+        "image": "https://media.istockphoto.com/id/1192710569/photo/engine-mount-replacement.jpg?s=612x612&w=0&k=20&c=bvi5p6jB9jw0E0ufHntW40WMKUBn4lh6yljVx6JhD2g=",
+        "available": 50,
+        "price": 7000,
+        "id": 9
+      },
+      {
+        "name": "shock absorbers",
+        "image": "https://media.istockphoto.com/id/537742235/photo/suspension-system.jpg?s=612x612&w=0&k=20&c=i4JvedPPvkZeh_fQVGkuPfh1qHczGNxjFB5yy2RwIZs=",
+        "available": 50,
+        "price": 7000,
+        "id": 10
+      },
+      {
+        "name": "ball joints",
+        "image": "https://media.istockphoto.com/id/1226528234/photo/cv-joint-one-of-the-most-important-parts-of-the-automotive-suspension.jpg?s=612x612&w=0&k=20&c=OphBNY7_7eZkxUcHRtKUX7LJykkDRwFRm3pU_ZMyMqI=",
+        "available": 50,
+        "price": 7000,
+        "id": 11
+      },
+      {
+        "image": "https://www.motortrend.com/uploads/sites/21/2019/06/017-carb.jpg?fit=around%7C875:492",
+        "price": "15000",
+        "name": "carburetor",
+        "available": "50",
+        "id": 12
+      },
+      {
+        "image": "https://media.istockphoto.com/id/171587281/photo/refilling-the-windshield-washer-system-antifreeze.jpg?s=612x612&w=0&k=20&c=f4GHzxm-GIor-4zff3ZM---vR8svJzqN2CaXd2y2TBA=",
+        "price": "7000",
+        "name": "coolant fluid",
+        "available": "7000",
+        "id": 13
+      }
+    ],
+    "users": [
+      {
+        "email": "",
+        "password": "",
+        "id": 1
+      },
+      {
+        "email": "",
+        "password": "",
+        "id": 2
+      },
+      {
+        "email": "",
+        "password": "",
+        "id": 3
+      },
+      {
+        "email": "",
+        "password": "",
+        "id": 4
+      },
+      {
+        "email": "",
+        "password": "",
+        "id": 5
+      },
+      {
+        "email": "",
+        "password": "",
+        "id": 6
+      },
+      {
+        "email": "",
+        "password": "",
+        "id": 7
+      },
+      {
+        "email": "",
+        "password": "",
+        "id": 8
+      },
+      {
+        "email": "",
+        "password": "",
+        "id": 9
+      },
+      {
+        "username": "cindycynthia387@gmail.com",
+        "password": "volturi01",
+        "id": 10
+      },
+      {
+        "username": "cindycynthia387@gmail.com",
+        "password": "dongle12",
+        "id": 11
+      }
+    ]
+  }
